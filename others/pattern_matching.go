@@ -1,4 +1,4 @@
-package coding_exam
+package others
 
 import "unicode/utf8"
 

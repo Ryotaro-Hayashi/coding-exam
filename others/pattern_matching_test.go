@@ -1,6 +1,8 @@
-package coding_exam
+package others
 
-import "testing"
+import (
+	"testing"
+)
 
 func Test_hasSameType(t *testing.T) {
 	type args struct {
