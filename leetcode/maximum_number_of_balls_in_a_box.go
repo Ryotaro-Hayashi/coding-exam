@@ -20,11 +20,6 @@ func countBalls(lowLimit int, highLimit int) int {
 			num = num / 10
 		}
 
-		//for limit > 0 {
-		//	boxNum += limit % 10
-		//	limit = limit / 10
-		//}
-
 		box[boxNum]++
 
 		if max < box[boxNum] {
