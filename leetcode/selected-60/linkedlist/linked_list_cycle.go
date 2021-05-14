@@ -22,6 +22,7 @@ func hasCycle(head *ListNode) bool {
 
 	return false
 }
+
 // サイクルがある場合は隣接ノードで値が同じことを利用する方法
 //func hasCycle(head *ListNode) bool {
 //	var (
